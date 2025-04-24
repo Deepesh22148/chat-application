@@ -15,7 +15,7 @@ This is a chat application built with React Native, NativeWind, Express.js, and 
 - **NativeWind**: For utility-first CSS styling.
 - **Express.js**: For the back-end API.
 - **MongoDB**: For storing user data and messages.
-- **Socket.IO**: For real-time messaging.
+
   
 ## Setup Instructions
 
